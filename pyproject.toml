@@ -1,0 +1,14 @@
+[project]
+name = "testBot"
+version = "0.1.0"
+description = "testBot"
+readme = "README.md"
+requires-python = ">=3.8, <4.0"
+
+[tool.nonebot]
+adapters = [
+    { name = "OneBot V11", module_name = "nonebot.adapters.onebot.v11" }
+]
+plugins = ["nonebot_plugin_gocqhttp", "nonebot_plugin_what2eat", "nonebot_plugin_fortune", "nonebot_plugin_crazy_thursday", "nonebot_plugin_naturel_gpt"]
+plugin_dirs = []
+builtin_plugins = ["echo"]

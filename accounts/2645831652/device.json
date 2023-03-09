@@ -1,0 +1,38 @@
+{
+    "product": "Rey R3",
+    "device": "Rey_R3",
+    "board": "Rey_R3",
+    "brand": "GSmart",
+    "model": "GSmart Rey R3",
+    "wifi_ssid": "TP-LINK_GGPK7C",
+    "android_id": "RQ1A.201205.008.A1",
+    "boot_id": "33fe75ea-1a91-799d-cebe-1ece2fd8610c",
+    "proc_version": "Linux version 3.3.84-O4pkOYHW (android-build@1a91799dcebe.source.android.com)",
+    "mac_address": "33:FE:75:EA:1A:91",
+    "ip_address": [
+        188,
+        51,
+        152,
+        254
+    ],
+    "imei": "113280840344999",
+    "incremental": "3428798501",
+    "protocol": 5,
+    "display": "RQ1A.201205.008.A1",
+    "finger_print": "GSmart/Rey R3/Rey_R3:10/RQ1A.201205.008.A1/3428798501:user/release-keys",
+    "baseband": "",
+    "sim": "T-Mobile",
+    "os_type": "android",
+    "bootloader": "U-boot",
+    "wifi_bssid": "33:FE:75:EA:1A:91",
+    "apn": "wifi",
+    "version": {
+        "incremental": "3428798501",
+        "release": "10",
+        "codename": "REL",
+        "sdk": 29
+    },
+    "imsi_md5": "de7bf30db25c82fee27d058e56fc139e",
+    "vendor_name": "GSmart",
+    "vendor_os_name": "android"
+}
